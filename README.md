@@ -4,5 +4,5 @@ This is a simplified script designed to help hackers or penetration testers stay
 
 useing
 ===
-python3 Check-list-by-Pharaoh-BM7
+python3 Check-list
 
